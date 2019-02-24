@@ -26,6 +26,7 @@ const responsiveSkills = [
 
 const webAppsSkills = [
   "Javascript",
+  "ES6",
   "React",
   "Redux",
   "MaterialUi",

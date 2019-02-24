@@ -33,7 +33,7 @@ export const projectData = [
         data: {
           proj_title: "Portfolio",
           proj_desc:
-            "Personal portfolio built using CSS grid, flexbox and React.",
+            "This my older version of portfolio built using CSS grid, flexbox and React.",
           proj_url: "https://adi-portfolio.firebaseapp.com/",
           github_url: "https://github.com/AdiBev/Portfolio"
         }
