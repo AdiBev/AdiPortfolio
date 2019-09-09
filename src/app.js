@@ -34,7 +34,7 @@ class App extends Component {
   state = {
     anchorEl: null,
     open_drawer: false,
-    currentTheme: themeBlack,
+    currentTheme: themeMing,
     rightDrawer: false
   };
 
