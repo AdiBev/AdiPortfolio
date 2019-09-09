@@ -56,7 +56,7 @@ const Home = props => {
           color="textSecondary"
           className={classes.subtitle}
         >
-          Front End Developer | React Developer
+          Fullstack Developer | React Developer
         </Typography>
         <Hidden mdUp>
           <div className={classes.fabButtonContainer}>
