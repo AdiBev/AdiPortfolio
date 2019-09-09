@@ -30,7 +30,11 @@ const webAppsSkills = [
   "React",
   "Redux",
   "MaterialUi",
-  "Styled components"
+  "Styled components",
+  "node.js",
+  "Express.js",
+  "MongoDB",
+  "Mongoose"
 ];
 
 const toolsList = ["Webpack", "Babel", "Git", "Atom"];
